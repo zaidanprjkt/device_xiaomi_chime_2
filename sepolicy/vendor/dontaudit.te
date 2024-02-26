@@ -33,4 +33,5 @@ dontaudit {
   vendor_ims
   vendor_netmgrd
   vendor_qti
+  vendor_hal_rcsservice
 } vendor_diag_device:chr_file rw_file_perms;

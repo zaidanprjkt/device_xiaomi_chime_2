@@ -52,11 +52,9 @@ PRODUCT_PACKAGES += \
     android.hardware.audio.effect@6.0-impl \
     android.hardware.audio.service \
     android.hardware.bluetooth.audio@2.0-impl \
-    android.hardware.soundtrigger@2.3-impl \
     audio.bluetooth.default \
     audio.r_submix.default \
     audio.primary.bengal \
-    audio.primary.default \
     audio.usb.default \
     libaudio-resampler \
     libqcompostprocbundle \
