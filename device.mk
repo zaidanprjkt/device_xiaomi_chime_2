@@ -484,6 +484,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.sensors@2.0-service.multihal \
     android.frameworks.sensorservice@1.0.vendor \
+    android.frameworks.sensorservice@1.0 \ 
     libsensorndkbridge
 
 PRODUCT_COPY_FILES += \
